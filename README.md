@@ -1,14 +1,11 @@
-# One Day Project: 3D Chess
-3D Chess Game made in Unity.
+# MLC Game Programmer Task
+
+This is the repo for the MLC Game Programmer Task, which involves extending an example seed chess game with procedural content to carry out piece captures based on context provided to the LLM. The task also includes designing and implementing clear and self-explanatory UI/UX for the new mechanics, presenting relevant outcomes to the player, establishing the necessary pipelines, and documenting the implementation process and findings.
 
 ![Board Screenshot](board.png)
 
-<p float="left">
-  <img src="white_move.png" width="32%" />
-  <img src="black_move.png" width="32%" /> 
-  <img src="black_horse_move_.png" width="32%" />
-</p>
+## Refs:
 
-Unity version: 2017.1.0f3
-
+GPT4All: https://github.com/Macoron/gpt4all.unity
+Original chess code: https://github.com/SacuL/3D-Chess-Unity
 Chess assets by Gameplan VFX https://www.assetstore.unity3d.com/en/#!/content/93915
